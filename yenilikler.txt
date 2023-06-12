@@ -1,1 +1,32 @@
+Güncellemeler - 11.06.2023 v2
+
+- Şerifteki bazı sorunlar giderildi
+- Hastaneye asansör eklendi.
+- Bazı yerlere garaj eklendi.
+- Araba huduna kemer eklendi.
+- Driveby açıldı
+- Silahlar şehre indi.
+- F3 Küçük hatalar giderildi
+- NPC Ler biraz daha azaltıldı.
+- Kullanılmayan ymapler kaldırıldı.
+- Optimizasyon hataları düzeltildi.
+
+Güncellemeler - 11.06.2023 
+
+- Polis ve Şerif permleri ayırıldı.
+- Orta kasaba hastenede oluşan sorun giderildi.
+- Faturadaki küçük hata giderildi.
+- Azıcık NPC açıldı
+- Bazı meslek pedleri gözükmüyordu. Fixlendi.
+- Gereksiz atılan banlar kaldırıldı
+- Gereksiz ban atan şeylerin çoğu kaldırıldı.
+- Küçük optimizasyonlar yapıldı.
+- Telefondaki bazı sorunlar çözüldü.
+- Marketler düzenlendi.
+- Boş npcler kaldırıldı.
+- Polis bildirimdeki küçük hata giderildi.
+- Animasyon menü değiştirildi. (Yakında türkçe olucak.)
+- /aracıdevret eklendi.
+
+
 - 10.06.2023 Açılış
