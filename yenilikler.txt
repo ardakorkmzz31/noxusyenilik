@@ -1,3 +1,18 @@
+Güncellemeler - 13.06.203
+
+- Şerif araçları değiştirildi.
+- Şerifin bazı sorunları fixlendi.
+- Valeden araç çağırınca modifiyelerin gelmemesi fixlendi.
+- Telefondan para gönderme fixlendi.
+- Telsiz türkçeleştirildi ve ölünce oluşan sorun fixlendi.
+- Orta kasabaya hastane eklendi.
+- Garaj sayısı arttırıldı.
+- F3 te çalışmayan fonksiyonlar düzeltildi.
+- Animasyon menüsü türkçeleşti.
+- Küçük optimizasyonlar yapıldı.
+- NPC'ler kapatıldı.
+- Kemer hud'a eklendi.
+
 Güncellemeler - 11.06.2023 v2
 
 - Şerifteki bazı sorunlar giderildi
