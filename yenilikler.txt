@@ -1,4 +1,4 @@
-Güncellemeler - 13.06.203
+Güncellemeler - 13.06.2023
 
 - Şerif araçları değiştirildi.
 - Şerifin bazı sorunları fixlendi.
