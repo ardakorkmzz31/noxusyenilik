@@ -1,3 +1,17 @@
+Güncellemeler - 15.06.2023
+
+- Şerif araç hızları arttırıldı.
+- Ems araçları eklendi.
+- Ems sorunları fixlendi.
+- Ölüyken kucaklama sorunu giderildi.
+- Şerif gps düzenlendi.
+- Şerif mdt düzenlendi.
+- Anahtarver menzili uzatıldı.
+- Crash yediren sorun düzeltildi. (BETA)
+- İllegal işleme / paketlemede atm gelme sorunu çözüldü. (BETA)
+- Kullanılmayan script / ymap / araçlar kaldırıldı.
+- Küçük optimizasyonlar yapıldı.
+
 Güncellemeler - 13.06.2023
 
 - Şerif araçları değiştirildi.
