@@ -1,6 +1,7 @@
 Güncellemeler - 15.06.2023
 
 - Şerif araç hızları arttırıldı.
+- Marketteki eşya vermeme sorunu düzeltildi.
 - Ems araçları eklendi.
 - Ems sorunları fixlendi.
 - Ölüyken kucaklama sorunu giderildi.
